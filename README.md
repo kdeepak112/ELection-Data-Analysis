@@ -1,1 +1,2 @@
 # ELection-Data-Analysis
+This project analyzes electoral trends and political dynamics in India using candidate-level data from 1977 to 2015 for Lok Sabha and Vidhan Sabha elections. Key insights include voter behavior, candidate demographics, and party performance across diverse constituencies. The project leverages this rich dataset to uncover patterns in representation and election outcomes over nearly four decades.
